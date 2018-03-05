@@ -74,14 +74,14 @@ footer {
 	height: 0;
 	font-size: 0;
 }
+
+a:hover {
+	color: white;
+}
 .name {
 	color: #F15B31;
 	font-weight: 700;
 }
-a:hover {
-	color: white;
-}
-
 
 
 
